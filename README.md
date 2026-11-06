@@ -23,7 +23,7 @@ data class SoftwareEngineer(
     val name: String = "Mohamed Shaaban",
     val alias: String = "MOMO",
     val location: String = "Egypt 🇪🇬",
-    val education: String = "Computer Science & AI @ Delta University",
+    val education: String = " AI engineer @ Delta University",
     val coreSpecialties: List<String> = listOf(
         "Android Native (Kotlin & Jetpack Compose)",
         "Generative AI & Autonomous Agent Systems",
