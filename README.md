@@ -19,7 +19,7 @@
 ### 👨‍💻 Executive Summary | نبذة تنفيذية
 
 ```kotlin
-data class SoftwareEngineer(
+data class AI Engineer(
     val name: String = "Mohamed Shaaban (MOMO)",
     val location: String = "Egypt 🇪🇬",
     val faculty: String = "Faculty of Artificial Intelligence @ Delta University",
@@ -37,14 +37,14 @@ data class SoftwareEngineer(
 <div dir="auto">
 
 #### 🇬🇧 English
-- 🎓 **Faculty of Artificial Intelligence & Computer Science** at Delta University for Science & Technology.
+- 🎓 **Faculty of Artificial Intelligence** at Delta University for Science & Technology.
 - 🔮 **AI & Systems Architect:** Creator of **R3 AI Studio** (multi-model workstation with Gemini 3.5 & ChatGPT 4o, liquid glass UI, and bidirectional voice), **Face Auth System** (biometric access control with multi-angle enrollment and live WebRTC cameras), and **DULMS Assistant** (automated scraper & task sync daemon).
 - 📱 **Mobile & Cloud Engineer:** Architect of **GXE Social** (real-time X/Twitter cloud platform with PWA & native Android APK) and **DUMU v2** (native Kotlin app with Room DB & Gemini AI).
 - 🌐 **Graphics & Web Specialist:** Creator of interactive 3D web experiences with **Three.js**, **React 19**, and **Tailwind CSS**.
 - 💡 **Engineering Standard:** Clean Architecture, SOLID principles, zero-bloat repositories, and high-performance reactive systems.
 
 #### 🇸🇦 العربية
-- 🎓 **طالب بكلية الحاسبات والذكاء الاصطناعي** بجامعة الدلتا للعلوم والتكنولوجيا.
+- 🎓 **طالب بكلية الذكاء الاصطناعي** بجامعة الدلتا للعلوم والتكنولوجيا.
 - 🔮 **معماري أنظمة وذكاء اصطناعي:** مطور **R3 AI Studio** (محطة عمل ذكية بنماذج Gemini 3.5 و GPT-4o وواجهة زجاجية وصوت تفاعلي)، و **Face Auth System** (نظام التعرف البيومتري ببصمة الوجه والكاميرات الحية عبر WebRTC)، وبوت **DULMS Assistant** (أتمتة جلب التكليفات الأكاديمية والمهام).
 - 📱 **مهندس تطبيقات ومحمول:** مطور **GXE Social** (شبكة تواصل اجتماعي سحابية تحاكي منصة X مع حزمة أندرويد APK)، وتطبيق **DUMU v2** الأصيل لجامعة الدلتا بـ Kotlin و Jetpack Compose و Room DB.
 - 🌐 **خبير الويب ثلاثي الأبعاد:** مطور واجهات الويب السينمائية والمجسمات التفاعلية باستخدام **Three.js** و **React 19** و **Tailwind CSS**.
