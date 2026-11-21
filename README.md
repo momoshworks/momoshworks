@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=220&section=header&text=Mohamed%20Shaaban&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20%26%20Mobile%20Architect&descSize=18&descAlignY=62&fontColor=ffffff" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mohamed+Shaaban+(MOMO)+%F0%9F%91%8B+%7C+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%D8%8C+%D8%A3%D9%86%D8%A7+%D9%85%D8%AD%D9%85%D8%AF+%D8%B4%D8%B9%D8%A8%D8%A7%D9%86;Software+Engineer+%26+AI+Systems+Architect+%F0%9F%A4%96;Creator+of+R3+AI+Studio+%26+GXE+Social+Network+%F0%9F%94%AE;Biometrics+%26+Computer+Vision+Engineer+(Face+Auth)+%F0%9F%94%90;Architecting+Native+Android+Apps+(Kotlin+%26+Compose)+%F0%9F%93%B1;DULMS+Automation+Engine+%26+Intelligent+EdTech+Suites+%F0%9F%8E%93;Crafting+Modern+Full-Stack+%26+Interactive+3D+Web+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=840&lines=Hi%2C+I'm+Mohamed+Shaaban+(MOMO)+%F0%9F%91%8B+%7C+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%D8%8C+%D8%A3%D9%86%D8%A7+%D9%85%D8%AD%D9%85%D8%AF+%D8%B4%D8%B9%D8%A8%D8%A7%D9%86;Software+Engineer+%26+AI+Systems+Architect+%F0%9F%A4%96;Creator+of+R3+AI+Studio+%26+Local+RAG+Engines+(Iris+Xe)+%E2%9A%A1;Architect+of+GXE+Social+Network+%26+Native+Android+Apps+%F0%9F%93%B1;Numerical+Methods+Platform+v2.5+Pro+%26+EdTech+Suites+%F0%9F%8E%93;Automated+Job+Scraping+%26+Biometric+Vision+Architect+%F0%9F%94%90;Crafting+Modern+Full-Stack+%26+Interactive+3D+Web+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -19,16 +19,18 @@
 ### 👨‍💻 Executive Summary | نبذة تنفيذية
 
 ```kotlin
-data class AI Engineer(
+data class AIEngineer(
     val name: String = "Mohamed Shaaban (MOMO)",
     val location: String = "Egypt 🇪🇬",
     val faculty: String = "Faculty of Artificial Intelligence @ Delta University",
     val primaryDisciplines: List<String> = listOf(
-        "Generative AI & Autonomous Agent Workstations",
-        "Biometrics & Real-Time Computer Vision Systems",
+        "Generative AI, Local RAG & Autonomous Agent Workstations",
+        "Edge AI Hardware Acceleration (Intel Iris Xe Vulkan) & Document Intelligence",
+        "Biometrics & Real-Time Computer Vision Security Systems",
         "Cross-Platform & Native Mobile Engineering (Kotlin Compose / Capacitor)",
-        "Automated Academic Scrapers & Backend Engines",
-        "Modern Full-Stack Architectures & Interactive 3D Web"
+        "Computational Engineering & Numerical Methods Software Platforms",
+        "Automated Scrapers, Backend Daemons & Intelligent Job Ranking Engines",
+        "Modern Full-Stack Architectures & Interactive 3D Web (Three.js)"
     ),
     val philosophy: String = "Ship fast, engineer clean, and make every pixel purposeful."
 )
@@ -38,15 +40,17 @@ data class AI Engineer(
 
 #### 🇬🇧 English
 - 🎓 **Faculty of Artificial Intelligence** at Delta University for Science & Technology.
-- 🔮 **AI & Systems Architect:** Creator of **R3 AI Studio** (multi-model workstation with Gemini 3.5 & ChatGPT 4o, liquid glass UI, and bidirectional voice), **Face Auth System** (biometric access control with multi-angle enrollment and live WebRTC cameras), and **DULMS Assistant** (automated scraper & task sync daemon).
-- 📱 **Mobile & Cloud Engineer:** Architect of **GXE Social** (real-time X/Twitter cloud platform with PWA & native Android APK) and **DUMU v2** (native Kotlin app with Room DB & Gemini AI).
+- 🔮 **AI & Systems Architect:** Creator of **R3 AI Studio** (multi-model workstation with Gemini 3.5 & ChatGPT 4o, Liquid Glass UI, and voice I/O), **Antigravity Local AI** (core local RAG & document intelligence engine accelerated by Intel Iris Xe Vulkan), and **Face Auth System** (biometric access control with multi-angle enrollment and live WebRTC cameras).
+- ⚙️ **Computational & Automation Engineer:** Developer of **Numerical Methods Platform v2.5 Pro** (desktop Tkinter & interactive web platform for numerical computing), **DULMS Assistant** (headless LMS scraper & task daemon), and **AI Job Search Engine** (automated multi-market job scraper & scoring system).
+- 📱 **Mobile & Cloud Engineer:** Architect of **GXE Social** (real-time X/Twitter cloud platform with PWA & native Android APK) and **DUMU / CRAFT SUITE** (bilingual mobile utility ecosystem and distribution portals).
 - 🌐 **Graphics & Web Specialist:** Creator of interactive 3D web experiences with **Three.js**, **React 19**, and **Tailwind CSS**.
 - 💡 **Engineering Standard:** Clean Architecture, SOLID principles, zero-bloat repositories, and high-performance reactive systems.
 
 #### 🇸🇦 العربية
 - 🎓 **طالب بكلية الذكاء الاصطناعي** بجامعة الدلتا للعلوم والتكنولوجيا.
-- 🔮 **معماري أنظمة وذكاء اصطناعي:** مطور **R3 AI Studio** (محطة عمل ذكية بنماذج Gemini 3.5 و GPT-4o وواجهة زجاجية وصوت تفاعلي)، و **Face Auth System** (نظام التعرف البيومتري ببصمة الوجه والكاميرات الحية عبر WebRTC)، وبوت **DULMS Assistant** (أتمتة جلب التكليفات الأكاديمية والمهام).
-- 📱 **مهندس تطبيقات ومحمول:** مطور **GXE Social** (شبكة تواصل اجتماعي سحابية تحاكي منصة X مع حزمة أندرويد APK)، وتطبيق **DUMU v2** الأصيل لجامعة الدلتا بـ Kotlin و Jetpack Compose و Room DB.
+- 🔮 **معماري أنظمة وذكاء اصطناعي:** مطور **R3 AI Studio** (محطة عمل ذكية بنماذج Gemini 3.5 و GPT-4o وواجهة زجاجية وصوت تفاعلي)، و **Antigravity Local AI** (محرك RAG محلي وقارئ مستندات فائق السرعة بتسريع كرت الشاشة Intel Iris Xe Vulkan)، و **Face Auth System** (نظام التعرف البيومتري ببصمة الوجه والكاميرات الحية عبر WebRTC).
+- ⚙️ **مهندس حوسبة وأتمتة:** مطور منصة **Numerical Methods Platform v2.5 Pro** (منصة سطح مكتب وويب متكاملة لحل معادلات التحليل العددي خطوة بخطوة)، وبوت **DULMS Assistant** (أتمتة جلب التكليفات الأكاديمية والمهام)، ومحرك **AI Job Search** (أتمتة البحث عن الوظائف وتصنيفها وتحليل السير الذاتية بـ LaTeX).
+- 📱 **مهندس تطبيقات ومحمول:** مطور **GXE Social** (شبكة تواصل اجتماعي سحابية تحاكي منصة X مع حزمة أندرويد APK)، ومنظومة **CRAFT SUITE** و **DUMU** للتطبيقات الخدمية الذكية.
 - 🌐 **خبير الويب ثلاثي الأبعاد:** مطور واجهات الويب السينمائية والمجسمات التفاعلية باستخدام **Three.js** و **React 19** و **Tailwind CSS**.
 - 💡 **المبادئ الهندسية:** الالتزام الصارم بمعمارية Clean Architecture، الأداء فائق السرعة، والأكواد النظيفة الموثقة والمبنية للإنتاج الحقيقي.
 
@@ -74,6 +78,21 @@ data class AI Engineer(
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">⚡ <a href="https://github.com/momoshworks/antigravity-local-ai">Antigravity Local AI</a></h3>
+      <p align="center"><b>Core Local RAG & Document Intelligence Engine</b></p>
+      <p><b>EN:</b> Modular offline RAG engine powered by Ollama (Qwen 2.5) with Intel Iris Xe (Vulkan) GPU acceleration, TF-IDF semantic vector search, FastAPI server, and multi-format parser (PDF, Word, Excel, Code).</p>
+      <p><b>AR:</b> محرك RAG محلي متكامل للاستنتاج الآلي دون إنترنت مع تسريع عتادي عبر كرت شاشة Intel Iris Xe ومحرك بحث دلالي خفيف وقراءة مستندات شاملة (PDF، وورد، إكسيل، أكواد) عبر FastAPI.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Ollama-Qwen%202.5-white?style=flat-square&logo=ollama&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Intel%20Iris%20Xe-Vulkan-0071C5?style=flat-square&logo=intel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Local%20RAG-Engine-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">📱 <a href="https://github.com/momoshworks/gxe-social">GXE Social Network</a></h3>
       <p align="center"><b>Real-Time X / Twitter Cloud Platform & Android APK</b></p>
       <p><b>EN:</b> Modern social networking platform replicating X (Twitter) with real-time WebSocket feeds, post interactions (Like, Repost, Nested Replies), Lightbox media viewer, Firebase Firestore & Storage backend, and native Android APK.</p>
@@ -85,8 +104,6 @@ data class AI Engineer(
         <img src="https://img.shields.io/badge/WebSockets-Realtime-000000?style=flat-square"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔐 <a href="https://github.com/momoshworks/face-auth-system">AI Face Auth & Security</a></h3>
       <p align="center"><b>Biometric Access Control & Computer Vision Vault</b></p>
@@ -98,6 +115,20 @@ data class AI Engineer(
         <img src="https://img.shields.io/badge/Face%20Recognition-FF6F00?style=flat-square"/>
         <img src="https://img.shields.io/badge/WebRTC%20Live%20Cam-00E5FF?style=flat-square"/>
         <img src="https://img.shields.io/badge/Encrypted%20Vault-10B981?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎯 <a href="https://github.com/momoshworks/ai-job-search-egypt">AI Job Search & Ranking Engine</a></h3>
+      <p align="center"><b>Automated Multi-Portal Scraper & Candidate Ranking</b></p>
+      <p><b>EN:</b> High-throughput automated job discovery daemon scraping multi-market tech portals with prompt injection guards, LaTeX moderncv & cover letter generator, candidate ranking, and CI smoke tests.</p>
+      <p><b>AR:</b> محرك استكشاف وتصنيف وظائف مؤتمت يفحص بوابات التوظيف المتعددة، مع حواجز أمنية لمنع حقن الأوامر، وتوليد السير الذاتية وخطابات التقديم المخصصة عبر LaTeX ونظام تقييم ملائمة المرشح.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Scraper-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-Engine-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LaTeX-moderncv-008080?style=flat-square&logo=latex&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scoring%20Engine-Automation-brightgreen?style=flat-square"/>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -113,28 +144,38 @@ data class AI Engineer(
       </p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">🎓 <a href="https://github.com/momoshworks/DUMO2">DUMU v2 - Delta University Mobile Utility</a></h3>
-      <p align="center"><b>Native Kotlin Android Application, Gemini AI Assistant & Home Screen Widget</b></p>
-      <p><b>EN:</b> Comprehensive native Android app for Delta University students built with Clean MVVM Architecture, Jetpack Compose, Room Database, DULMS task sync, Google Gemini AI academic assistant, student productivity suite (Image-to-PDF, Audio Recorder, Pomodoro Timer), and Android AppWidget.</p>
-      <p><b>AR:</b> تطبيق أندرويد متكامل لطلاب جامعة الدلتا يدمج معمارية Clean MVVM و Jetpack Compose مع Room DB ومساعد الذكاء الاصطناعي Google Gemini ومزامنة تكليفات DULMS وأدوات المذاكرة وودجت الشاشة الرئيسية.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Kotlin-2.2-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Room%20Database-F89820?style=flat-square&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google%20Gemini%20AI-8E75C4?style=flat-square&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Clean%20Architecture-MVVM-brightgreen?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
 </table>
 
 ---
 
-## 🚀 Tier 2: Specialized Platforms & Intelligent EdTech | المنصات التخصصية والتعليم الذكي
+## 🚀 Tier 2: Specialized Platforms & Computational Systems | المنصات التخصصية والحوسبية
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧮 <a href="https://github.com/momoshworks/numerical-methods-platform">Numerical Methods Platform v2.5 Pro</a></h3>
+      <p align="center"><b>Dual Desktop (Tkinter) & Web Computational Suite</b></p>
+      <p><b>EN:</b> Comprehensive computational engineering platform for Delta University's Numerical Methods course. Solves Roots (Bisection, False Position, Newton-Raphson, Secant), Linear Systems (Gauss, LU, Gauss-Seidel), Interpolation (Lagrange, Newton), Numerical Calculus & ODEs (Euler, RK4) with step-by-step mathematical derivations and interactive plotting.</p>
+      <p><b>AR:</b> منصة حوسبة هندسية مزدوجة (برنامج سطح مكتب بـ Tkinter وتطبيق ويب تفاعلي) لحل مسائل التحليل العددي بخطوات تفصيلية وجداول تقارب ورسوم بيانية لمنهج جامعة الدلتا للذكاء الاصطناعي.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Tkinter%20GUI-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-Interactive%20Web-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Numerical%20Analysis-v2.5%20Pro-9C27B0?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Step--by--Step-Solutions-success?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 <a href="https://github.com/momoshworks/craft-showcase">CRAFT SUITE</a></h3>
+      <p align="center"><b>Unified Portfolio & Application Download Hub</b></p>
+      <p><b>EN:</b> Centralized showcase portal and release repository hosting Mohamed Shaaban's desktop applications, Android APKs, web platforms, and engineering suites with live previews, feature grids, and direct downloads.</p>
+      <p><b>AR:</b> البوابة الموحدة لاستعراض وتحميل كافة تطبيقات وبرمجيات محمد شعبان، تتضمن تفاصيل الأنظمة، الروابط السحابية، ونسخ APK وحزم سطح المكتب مع واجهة عصرية سريعة.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Showcase-Portal-00E5FF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Direct%20Downloads-APK%20%26%20EXE-10B981?style=flat-square"/>
+        <img src="https://img.shields.io/badge/JavaScript-Responsive%20UI-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🌐 <a href="https://github.com/momoshworks/TEAM-VERTEX-">Vertex AI Team Platform</a></h3>
@@ -199,68 +240,32 @@ data class AI Engineer(
 
 ---
 
-## 🎮 Tier 3: Interactive Labs & Showcases | المعامل والألعاب التفاعلية
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏹 <a href="https://github.com/momoshworks/Arrow-game">Arrow Master Physics Game</a></h3>
-      <p><b>EN:</b> 2D archery physics game built on HTML5 Canvas with kinematics trajectory, moving targets, and Web Audio API synthesized audio.</p>
-      <p><b>AR:</b> لعبة رماية أسهم فيزيائية على HTML5 Canvas مع حساب مسار المقذوفات والجاذبية ومحرك أصوات تركيبي عبر Web Audio API.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5%20Canvas-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/2D%20Physics-0EA5E9?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Web%20Audio-FFA500?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📲 <a href="https://github.com/momoshworks/APPs-store">DUMU Showcase & QR Portal</a></h3>
-      <p><b>EN:</b> Mobile-first bilingual showcase portal with dynamic offline QR generator for direct APK installation on mobile devices.</p>
-      <p><b>AR:</b> بوابة استعراض وتحميل تطبيق DUMU تدعم اللغتين (i18n) مع مولد QR Code محلي وسريع لتنزيل الـ APK على الهواتف فوراً.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/i18n%20Bilingual-8B5CF6?style=flat-square"/>
-        <img src="https://img.shields.io/badge/QR%20Engine-000000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Mobile--First-10B981?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛍️ <a href="https://github.com/momoshworks/OMT">OMT Optics E-Catalog</a></h3>
-      <p><b>EN:</b> Mobile-first digital optical catalog with full Arabic RTL support, instant product filtering, and lightweight zero-dependency architecture.</p>
-      <p><b>AR:</b> كتالوج بصريات ونظارات تفاعلي للموبايل بدعم كامل للغة العربية (RTL)، وبطاقات منتجات ديناميكية وسلة طلبات سريعة.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Arabic%20RTL-10B981?style=flat-square"/>
-        <img src="https://img.shields.io/badge/E--Catalog-EC4899?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Zero--Dependency-6366F1?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 <a href="https://github.com/momoshworks/momo-store">MOMO E-Commerce Store</a></h3>
-      <p><b>EN:</b> Full-stack e-commerce web application featuring dynamic catalog navigation, reactive cart management, and fluid responsive UI.</p>
-      <p><b>AR:</b> تطبيق متجر إلكتروني متكامل يحتوي على واجهة تصفح المنتجات وسلة المشتريات التفاعلية بتجربة مستخدم سريعة وعصرية.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/E--Commerce-FF6F00?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Responsive-2563EB?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Engineering Toolbox & Tech Matrix | مصفوفة المهارات والتقنيات
+### 🎨 Creative Labs & Mobile Portals | بوابات المحمول والمختبرات الإبداعية
 
 <div align="center">
 
-| المجال / Domain | التقنيات والأدوات الأساسية / Core Stack & Frameworks |
+| المشروع | الوصف والمجال | التقنيات | المعاينة |
+| :--- | :--- | :--- | :---: |
+| **📱 DUMU Showcase** | بوابة تنزيل تطبيق أندرويد لطلاب جامعة الدلتا عبر QR كود فوري | `Android`, `QR-Code`, `i18n` | [**Repo**](https://github.com/momoshworks/APPs-store) |
+| **🏹 Arrow Master Game** | لعبة تصويب سهام تفاعلية بفيزياء حركة ومؤثرات صوتية متزامنة | `HTML5 Canvas`, `Web Audio API` | [**Repo**](https://github.com/momoshworks/Arrow-game) |
+| **🛒 MOMO Store** | تطبيق متجر إلكتروني متكامل لإدارة المنتجات وسلة الشراء | `React`, `E-Commerce`, `Tailwind` | [**Repo**](https://github.com/momoshworks/momo-store) |
+| **👓 OMT Optics Catalog** | كتالوج بصريات رقمي بتصميم مخصص للموبايل ودعم العربية RTL | `Mobile-First`, `Arabic RTL`, `Catalog` | [**Repo**](https://github.com/momoshworks/OMT) |
+
+</div>
+
+---
+
+### 🛠️ Tech Stack & Engineering Toolbox | الترسانة التقنية والهندسية
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Mobile Engineering** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Android Native](https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) ![Room DB](https://img.shields.io/badge/Room%20DB-F89820?style=flat-square&logo=sqlite&logoColor=white) ![CameraX](https://img.shields.io/badge/CameraX-34A853?style=flat-square) ![Coroutines](https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **AI, Vision & Automation** | ![Google Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-8E75C4?style=flat-square&logo=google&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Face Recognition](https://img.shields.io/badge/Biometrics-Face%20Rec-FF6F00?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scraping](https://img.shields.io/badge/Web%20Scraping-Automation-blue?style=flat-square) |
-| **Frontend & 3D Web** | ![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Canvas 2D](https://img.shields.io/badge/HTML5%20Canvas-E34F26?style=flat-square) ![Web Audio API](https://img.shields.io/badge/Web%20Audio-FFA500?style=flat-square) |
-| **Backend & Cloud Services** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Languages** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Mobile & Cross-Platform** | ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white) ![Room DB](https://img.shields.io/badge/Room%20DB-F89820?style=flat-square&logo=sqlite&logoColor=white) ![CameraX](https://img.shields.io/badge/CameraX-34A853?style=flat-square) ![Coroutines](https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) |
+| **AI, Vision & RAG** | ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-white?style=flat-square&logo=ollama&logoColor=black) ![Intel Iris Xe](https://img.shields.io/badge/Iris%20Xe-Vulkan%20GPU-0071C5?style=flat-square&logo=intel&logoColor=white) ![Google Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-8E75C4?style=flat-square&logo=google&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Face Recognition](https://img.shields.io/badge/Biometrics-Face%20Rec-FF6F00?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Scraping](https://img.shields.io/badge/Web%20Scraping-Automation-blue?style=flat-square) |
+| **Frontend & 3D Web** | ![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Canvas 2D](https://img.shields.io/badge/HTML5%20Canvas-E34F26?style=flat-square) ![Tkinter](https://img.shields.io/badge/Tkinter-Desktop%20GUI-3776AB?style=flat-square) |
+| **Backend & Cloud Services** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
 | **Analytics & Data BI** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX%20Analytics-00758F?style=flat-square) ![Microsoft Excel](https://img.shields.io/badge/Excel%20ETL-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
 | **DevOps & Workflows** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitHub CLI](https://img.shields.io/badge/GitHub%20CLI-181717?style=flat-square&logo=github&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
